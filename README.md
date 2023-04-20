@@ -1,6 +1,6 @@
 👋 Hi there, Myself Shivam Nirmal, an aspiring data scientist who loves exploring and making sense of complex data to solve real-world problems.
 
-🔭 I’m currently working on developing my skills in machine learning, statistical analysis, and programming languages such as Python and R.
+🔭 I’m currently working on developing my skills in depth for machine learning, deep learning & statistical analysis, with help of programming languages such as Python and R.
 
 🌱 As a lifelong learner, I'm constantly seeking new challenges and opportunities to expand my knowledge and apply it to real-world situations.
 
