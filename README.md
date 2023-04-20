@@ -1,4 +1,4 @@
-👋 Hi there, Myself Shivam Nirmal, a data scientist who loves exploring and making sense of complex data to solve real-world problems.
+👋 Hi there, Myself Shivam Nirmal, an aspiring data scientist who loves exploring and making sense of complex data to solve real-world problems.
 
 🔭 I’m currently working on developing my skills in machine learning, statistical analysis, and programming languages such as Python and R.
 
