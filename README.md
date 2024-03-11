@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://er-shivam11.github.io/shivamnirmal/](https://er-shivam11.github.io/shivamnirmal/)
 
-- 📝 I regularly write articles on [PYTHON](PYTHON)
+- 📝 I regularly write articles on [[PYTHON](https://github.com/Er-shivam11/PythonFundamentals-100DaysOfCode)]
 
 - 💬 Ask me about **PYTHON**
 
